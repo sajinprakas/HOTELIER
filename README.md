@@ -1,136 +1,65 @@
 # HOTELIER
 ![hotel-html-template](https://github.com/sajinprakas/HOTELIER/assets/93714378/e6b2a36f-1b0f-4fb9-8766-fcb516a9351a)
  https://sajinprakas.github.io/HOTELIER/
-# ispeakweb
 
-> Collective twitter account for frontend developers with a new author
-every week
 
-It’s an interesting Reddit AMA analog, but in twitter and obviously with
-new functions. It’s an ability to read and discuss significant
-or controversial issues with weekly changing authors.
+<!--
+<h2 align="center">
+  Welcome to Al My World!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
+-->
 
-## Why should I care? Why should I follow you?
+<!--
+<p align="center">
+  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 
-— You shouldn’t. Otherwise, you will get a huge amount of pros:
+ -->
 
-* Critical thinking: every author is unique, that’s why the views you
-  will find can be quintessentially different
-* Comfort zone: ispeakweb will make you step out of your comfort zone
-  in some cases
-* New: you will discover new trends, things and people
-* "Shuffle mode": it’s like a random song on the radio, you can definitely
-  find something, which you most likely would never have found
-* Experience: authors can share their experience gained over the years
-* Mind shift: authors can show professional insights and new approaches
-  that dramatically differ from yours
-* You can easily contact the author, ’cause it is two way communication channel
-* It’s fun
+<a href="https://komarev.com/ghpvc/?username=sajin">
+  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
-Feel free to follow [@ispeakweb][isw] on twitter.
 
-## How it works?
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
-— New interesting authors weekly, you read and interact with them.
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://alsiam.com">Saif Al Siam</a></b>
+        </samp>
+</h3>
 
-I promise, that I will choose new authors carefully, but nobody can say for sure
-how it will be going in real life with every author. Things do happen, you know.
 
-## Show me more!
+<p align="center"> 
+  <samp>
+    <a href="https://www.google.com/search?q=Saif+Al+Siam">「 Google Me 」</a>
+    <br>
+    「 I am a full stack web appplication developer from <b>Bangladesh</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
 
-— _ispeakweb_ will have a statistics page and summary pages for each author.
-
-## What will I get as an author?
-
-* New followers from your target audience
-* Test your ideas: get response from numerous followers
-* Test your experience, get advice from somebody more experienced than you
-* New people and catchy ideas
-* Exciting and completely new experience
-* Fewer restrictions as it’s not your private twitter!
-* Receive technical and common questions which you would never receive
-  in your private twitter.
-* It's just an honor
-* And fun
-
-###  What should I know before starting my week?
-
-#### Are there any general recommendations?
-
-— Yeah, here they are:
-
-1. To begin with, update the bio, avatar, location and background image. Make
-   sure that description contains link to your own account
-2. Say hello and introduce yourself briefly in a couple of tweets
-   at the beginning
-3. Specify your plans for the week in one tweet
-4. If it’s possible, make all mentioned above in five minutes to be sure that
-   your "intro" tweets will be grouped in timeline
-5. If you want to answer, retweet the question first. Then write answers
-   as ordinary tweets. If you want, you can include question’s author
-   at the end of you answers
-6. Say goodbye and show your appreciation to followers at the end
-
-#### Should I have a plan for my week?
-
-— Tl;DR: You should. Experience leads us to conclude that having a plan is better
-than not having it. Basically, you don’t need a plan itself — you need
-a list of topics you want to discuss. Planning have great positive impact
-on followers and authors itself.
-
-#### Will I be annoyed by replying? Isn’t it waste of time?
-
-— In some cases, but communication is the most important and interesting part
-of @ispeakweb’s idea. Also, replying is easier than writing original tweets.
-And you don’t need to feed the trolls.
-
-#### Are there any popular topics I can discuss with my followers?
-
-— You probably can discuss something from the list:
-
-* Ways to rate other developers (github, stackoverflow etc.)
-* Rating and reviewing sites
-* Making interviews
-* Your attitude to opensource
-* Developers, you are inspired of or valuable for you (co-workers,
-  great mentors or bloggers)
-* Your projects
-* Forecast frontend trends in 5 years.
-* Your workplace and/or health-related topics
-* Your work setup: equipment, programs, .dotfiles and other
-* Your most interesting technical challenges
-* Your start in Computer Science
-* Your career path and current position
-* Your professional and common plans for future
-* Favorite core value and the way you live it
-* Your favorite professional experience
-* Work-life balance
-* Higher education, self-education and online education
-* Your contribution and responsibility as a web developer in the overall
-  picture of the world
-
-#### How to make a proposal?
-
-— [Email me][proposal] if you’re willing to lead [@ispeakweb][isw] for one week
-or want to suggest somebody else.
-
-## Code of Conduct
-
-Please, be polite and have respect to your followers. Do not insult
-or put down others. Behave professionally. Harassment and sexist, racist,
-or exclusionary jokes are not appropriate for [@ispeakweb][isw].
-
-[Email me asap][coc-violations] if you’ve spotted any CoC violations.
-
-## Postscript
-
-I hope this account will help frontend developers to know each other and link
-together in different geo-, framework-, language-based communities.
-
-## License
-
-MIT © [Vladimir Starkov](http://vstarkov.com)
-
-[isw]: https://twitter.com/ispeakweb
-[proposal]: mailto:iamstarkov@gmail.com?subject=Author’s%20proposal%20for%20@ispeakweb
-[coc-violations]: mailto:iamstarkov@gmail.com?subject=CoC%20violations%20in%20@ispeakweb
+<p align="center">
+ <a href="https://alsiam.com" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ </a>
+ <a href="https://linkedin.com/in/saifalsiam" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+ <a href="https://dev.to/alsiam" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
+ </a>
+ <a href="https://twitter.com/alsiam_dev" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://instagram.com/alsiam.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ </a> 
+ <a href="https://facebook.com/alsiam.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+  </a> 
+</p>
+<br />
